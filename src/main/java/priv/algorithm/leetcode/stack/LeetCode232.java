@@ -1,4 +1,4 @@
-package priv.algorithm.leetcode;
+package priv.algorithm.leetcode.stack;
 
 import org.testng.annotations.Test;
 
